@@ -1,0 +1,18 @@
+{
+  "CSE3090": {
+    "meta": {
+      "course_code": "CSE3090",
+      "title": "Data Privacy",
+      "header": "CSE3090 Data Privacy L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction to Data Privacy", "topics": ["Data protection principles", "Privacy threats", "Legal frameworks"] },
+      { "module_label": "Module 2", "raw": "Privacy in Databases", "topics": ["Statistical databases", "Query restriction", "Inference control"] },
+      { "module_label": "Module 3", "raw": "Anonymization Techniques", "topics": ["k-anonymity", "l-diversity", "t-closeness"] },
+      { "module_label": "Module 4", "raw": "Cryptographic Approaches", "topics": ["Encryption techniques", "Homomorphic encryption", "Secure multi-party computation"] },
+      { "module_label": "Module 5", "raw": "Privacy in Data Mining and Machine Learning", "topics": ["Privacy-preserving data mining", "Differential privacy"] },
+      { "module_label": "Module 6", "raw": "Emerging Topics", "topics": ["Privacy in big data", "Privacy in IoT", "Blockchain and privacy"] },
+      { "module_label": "Module 7", "raw": "Contemporary Issues", "topics": ["Case studies", "Future challenges in data privacy"] }
+    ]
+  }
+}

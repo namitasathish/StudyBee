@@ -1,0 +1,18 @@
+{
+  "CSE3041": {
+    "meta": {
+      "course_code": "CSE3041",
+      "title": "Cloud Computing",
+      "header": "CSE3041 Cloud Computing L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction to Cloud Computing", "topics": ["Cloud models", "Characteristics of cloud", "Benefits and challenges"] },
+      { "module_label": "Module 2", "raw": "Cloud Architecture", "topics": ["Service models (IaaS, PaaS, SaaS)", "Deployment models (Public, Private, Hybrid)", "Virtualization"] },
+      { "module_label": "Module 3", "raw": "Cloud Services", "topics": ["Compute services", "Storage services", "Database services", "Networking services"] },
+      { "module_label": "Module 4", "raw": "Cloud Platforms", "topics": ["AWS", "Microsoft Azure", "Google Cloud Platform"] },
+      { "module_label": "Module 5", "raw": "Security in Cloud", "topics": ["Cloud security challenges", "Data protection", "Identity and access management"] },
+      { "module_label": "Module 6", "raw": "Emerging Topics", "topics": ["Serverless computing", "Containerization with Docker and Kubernetes"] },
+      { "module_label": "Module 7", "raw": "Applications of Cloud", "topics": ["Enterprise cloud", "Cloud in IoT", "Cloud in big data analytics"] }
+    ]
+  }
+}

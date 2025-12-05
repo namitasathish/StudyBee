@@ -1,0 +1,18 @@
+{
+  "CSE2004": {
+    "meta": {
+      "course_code": "CSE2004",
+      "title": "Database Management Systems",
+      "header": "CSE2004 Database Management Systems L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction to Databases", "topics": ["DBMS characteristics", "Data models", "Architecture", "Data independence"] },
+      { "module_label": "Module 2", "raw": "Entity-Relationship Model", "topics": ["ER diagrams", "Constraints", "Enhanced ER model"] },
+      { "module_label": "Module 3", "raw": "Relational Model", "topics": ["Relational algebra", "Relational calculus", "Constraints"] },
+      { "module_label": "Module 4", "raw": "SQL", "topics": ["DDL", "DML", "Joins", "Subqueries", "Views", "Indexes"] },
+      { "module_label": "Module 5", "raw": "Normalization", "topics": ["1NF", "2NF", "3NF", "BCNF", "Multivalued dependencies"] },
+      { "module_label": "Module 6", "raw": "Transaction Management", "topics": ["ACID properties", "Concurrency control", "Locking", "Deadlock handling"] },
+      { "module_label": "Module 7", "raw": "Recovery and Security", "topics": ["Recovery techniques", "Database security", "Authorization"] }
+    ]
+  }
+}

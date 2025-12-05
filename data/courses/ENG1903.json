@@ -1,0 +1,18 @@
+{
+  "ENG1903": {
+    "meta": {
+      "course_code": "ENG1903",
+      "title": "Advanced Technical English",
+      "header": "ENG1903 Advanced Technical English L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Negotiation and Decision Making Skills", "topics": ["Negotiation", "Decision making", "Literary analysis"] },
+      { "module_label": "Module 2", "raw": "Writing reviews and abstracts", "topics": ["Review writing", "Abstract writing"] },
+      { "module_label": "Module 3", "raw": "Technical Writing", "topics": ["Content and style", "Proofreading"] },
+      { "module_label": "Module 4", "raw": "Trans-Cultural Communication", "topics": ["Nuances of communication", "Case studies", "Debates"] },
+      { "module_label": "Module 5", "raw": "Report Writing and Content Writing", "topics": ["Reports", "Audio-visual analysis"] },
+      { "module_label": "Module 6", "raw": "Drafting project proposals and articles", "topics": ["Project proposals", "Research articles"] },
+      { "module_label": "Module 7", "raw": "Technical Presentations", "topics": ["Presentation skills", "Web tools"] }
+    ]
+  }
+}

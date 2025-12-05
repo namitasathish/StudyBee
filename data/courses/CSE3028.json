@@ -1,0 +1,18 @@
+{
+  "CSE3038": {
+    "meta": {
+      "course_code": "CSE3038",
+      "title": "Data Warehousing and Data Mining",
+      "header": "CSE3038 Data Warehousing and Data Mining L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction to Data Warehousing", "topics": ["Data warehouse architecture", "OLAP", "Data cube", "Star and snowflake schemas"] },
+      { "module_label": "Module 2", "raw": "Data Preprocessing", "topics": ["Data cleaning", "Data integration", "Data reduction", "Data transformation"] },
+      { "module_label": "Module 3", "raw": "Association Rule Mining", "topics": ["Apriori algorithm", "Frequent itemsets", "Support", "Confidence", "Lift"] },
+      { "module_label": "Module 4", "raw": "Classification", "topics": ["Decision tree induction", "Naive Bayes classification", "k-NN classifier"] },
+      { "module_label": "Module 5", "raw": "Clustering", "topics": ["Partitioning methods", "Hierarchical clustering", "Density-based clustering"] },
+      { "module_label": "Module 6", "raw": "Advanced Topics in Data Mining", "topics": ["Text mining", "Web mining", "Temporal data mining", "Spatial data mining"] },
+      { "module_label": "Module 7", "raw": "Applications of Data Mining", "topics": ["Business intelligence", "Healthcare analytics", "Fraud detection"] }
+    ]
+  }
+}

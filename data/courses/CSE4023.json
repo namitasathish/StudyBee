@@ -1,0 +1,18 @@
+{
+  "CSE4023": {
+    "meta": {
+      "course_code": "CSE4023",
+      "title": "Social Network Analysis",
+      "header": "CSE4023 Social Network Analysis L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction to Social Networks", "topics": ["Types of networks", "Graph theory basics", "Social network datasets"] },
+      { "module_label": "Module 2", "raw": "Network Models", "topics": ["Random graphs", "Small-world networks", "Scale-free networks"] },
+      { "module_label": "Module 3", "raw": "Centrality Measures", "topics": ["Degree centrality", "Betweenness centrality", "Closeness centrality", "Eigenvector centrality"] },
+      { "module_label": "Module 4", "raw": "Community Detection", "topics": ["Clustering in networks", "Modularity", "Hierarchical clustering"] },
+      { "module_label": "Module 5", "raw": "Information Diffusion", "topics": ["Cascade models", "Epidemic models"] },
+      { "module_label": "Module 6", "raw": "Link Prediction", "topics": ["Similarity-based methods", "Probabilistic models", "Learning-based approaches"] },
+      { "module_label": "Module 7", "raw": "Applications", "topics": ["Recommendation systems", "Influence maximization", "Social media analytics"] }
+    ]
+  }
+}

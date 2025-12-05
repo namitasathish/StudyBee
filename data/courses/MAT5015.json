@@ -1,0 +1,99 @@
+{
+  "MAT5015": {
+    "meta": {
+      "course_code": "MAT5015",
+      "title": "Mathematics for Engineers",
+      "header": "MAT5015 Mathematics for Engineers L T P J C"
+    },
+    "modules": [
+      {
+        "module_label": "Module 1",
+        "raw": "Set Theory",
+        "topics": [
+          "Sets",
+          "Set Operations",
+          "Power Sets",
+          "Functions",
+          "Relations",
+          "Equivalence relations",
+          "Partial ordering"
+        ]
+      },
+      {
+        "module_label": "Module 2",
+        "raw": "Counting",
+        "topics": [
+          "Basics of Counting",
+          "Pigeonhole Principle",
+          "Permutations",
+          "Combinations",
+          "Binomial coefficients",
+          "Identities"
+        ]
+      },
+      {
+        "module_label": "Module 3",
+        "raw": "Differentiation",
+        "topics": [
+          "Differentiation of single variable functions",
+          "Implicit differentiation",
+          "Higher order derivatives",
+          "Maxima and minima"
+        ]
+      },
+      {
+        "module_label": "Module 4",
+        "raw": "Integration",
+        "topics": [
+          "Integration techniques",
+          "Integration by parts",
+          "Definite integrals",
+          "Area and volume by integration"
+        ]
+      },
+      {
+        "module_label": "Module 5",
+        "raw": "Functions of several variables",
+        "topics": [
+          "Partial derivatives",
+          "Total differentials",
+          "Jacobian",
+          "Maxima and minima",
+          "Lagrange\u2019s multipliers"
+        ]
+      },
+      {
+        "module_label": "Module 6",
+        "raw": "Multiple integrals",
+        "topics": [
+          "Double integrals",
+          "Change of order",
+          "Change of variables",
+          "Triple integrals",
+          "Cartesian, cylindrical, spherical coordinates"
+        ]
+      },
+      {
+        "module_label": "Module 7",
+        "raw": "Vector Calculus",
+        "topics": [
+          "Gradient",
+          "Divergence",
+          "Curl",
+          "Vector potentials",
+          "Line, surface, volume integrals",
+          "Green\u2019s theorem",
+          "Stoke\u2019s theorem",
+          "Gauss theorem"
+        ]
+      },
+      {
+        "module_label": "Module 8",
+        "raw": "Contemporary Issues",
+        "topics": [
+          "Applications of Discrete Mathematics in Computer Science and Engineering"
+        ]
+      }
+    ]
+  }
+}

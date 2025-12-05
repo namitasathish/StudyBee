@@ -1,0 +1,18 @@
+{
+  "CSE4021": {
+    "meta": {
+      "course_code": "CSE4021",
+      "title": "Computer Vision",
+      "header": "CSE4021 Computer Vision L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction to Computer Vision", "topics": ["Applications", "Image formation", "Camera models"] },
+      { "module_label": "Module 2", "raw": "Image Processing Basics", "topics": ["Filtering", "Edge detection", "Histogram equalization"] },
+      { "module_label": "Module 3", "raw": "Feature Extraction", "topics": ["Corners", "Blobs", "SIFT", "SURF", "HOG"] },
+      { "module_label": "Module 4", "raw": "Segmentation", "topics": ["Thresholding", "Clustering methods", "Graph-based segmentation"] },
+      { "module_label": "Module 5", "raw": "Object Recognition", "topics": ["Template matching", "Bag of features", "Deep learning methods"] },
+      { "module_label": "Module 6", "raw": "3D Vision", "topics": ["Stereo vision", "Structure from motion", "3D reconstruction"] },
+      { "module_label": "Module 7", "raw": "Applications", "topics": ["Face recognition", "Scene understanding", "Autonomous vehicles"] }
+    ]
+  }
+}

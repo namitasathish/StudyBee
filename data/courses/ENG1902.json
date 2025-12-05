@@ -1,0 +1,25 @@
+{
+  "ENG1902": {
+    "meta": {
+      "course_code": "ENG1902",
+      "title": "Technical English - II",
+      "header": "ENG1902 Technical English - II L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Listening for Clear Pronunciation", "topics": ["Vowels", "Consonants", "Accents"] },
+      { "module_label": "Module 2", "raw": "Introducing Oneself", "topics": ["Self-introductions", "Extempore speech"] },
+      { "module_label": "Module 3", "raw": "Effective Writing", "topics": ["Business letters", "Emails", "Minutes", "Memos"] },
+      { "module_label": "Module 4", "raw": "Comprehensive Reading", "topics": ["Reading comprehension", "Sentence completion", "Word analogy"] },
+      { "module_label": "Module 5", "raw": "Listening to Narratives", "topics": ["News", "Stories", "Documentaries"] },
+      { "module_label": "Module 6", "raw": "Academic Writing and Editing", "topics": ["Editing", "Proofreading", "Abstract writing", "Research paper writing"] },
+      { "module_label": "Module 7", "raw": "Team Communication", "topics": ["Group discussions", "Debates"] },
+      { "module_label": "Module 8", "raw": "Career-oriented Writing", "topics": ["Resumes", "Job applications", "Statement of Purpose"] },
+      { "module_label": "Module 9", "raw": "Reading for Pleasure", "topics": ["Short stories", "Critical appreciation"] },
+      { "module_label": "Module 10", "raw": "Creative Writing", "topics": ["Imaginative writing", "Narrative prose"] },
+      { "module_label": "Module 11", "raw": "Academic Listening", "topics": ["Lectures", "Academic debates", "Presentations"] },
+      { "module_label": "Module 12", "raw": "Reading Nature-based Narratives", "topics": ["Climate change", "Environment"] },
+      { "module_label": "Module 13", "raw": "Technical Proposals", "topics": ["Proposal writing"] },
+      { "module_label": "Module 14", "raw": "Presentation Skills", "topics": ["Persuasive presentations", "Content-specific presentations"] }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "CSE3017": {
+    "meta": {
+      "course_code": "CSE3017",
+      "title": "Artificial Intelligence",
+      "header": "CSE3017 Artificial Intelligence L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction to AI", "topics": ["History of AI", "Applications of AI", "Rational agents"] },
+      { "module_label": "Module 2", "raw": "Problem Solving", "topics": ["State space representation", "Uninformed search", "Informed search", "Adversarial search"] },
+      { "module_label": "Module 3", "raw": "Knowledge Representation", "topics": ["Propositional logic", "Predicate logic", "Inference", "Knowledge bases"] },
+      { "module_label": "Module 4", "raw": "Reasoning under Uncertainty", "topics": ["Probability in AI", "Bayesian networks", "Markov models"] },
+      { "module_label": "Module 5", "raw": "Learning in AI", "topics": ["Decision trees", "Neural networks", "Reinforcement learning"] },
+      { "module_label": "Module 6", "raw": "Planning", "topics": ["Planning with state space", "STRIPS", "Partial order planning"] },
+      { "module_label": "Module 7", "raw": "Contemporary Issues", "topics": ["Ethics in AI", "AI in industry", "Future challenges"] }
+    ]
+  }
+}

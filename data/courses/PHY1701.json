@@ -1,0 +1,95 @@
+{
+  "PHY1701": {
+    "meta": {
+      "course_code": "PHY1701",
+      "title": "Engineering Physics",
+      "header": "PHY1701 Engineering Physics L T P J C"
+    },
+    "modules": [
+      {
+        "module_label": "Module 1",
+        "raw": "Introduction to Modern Physics",
+        "topics": [
+          "Planck\u2019s hypothesis",
+          "Compton Effect",
+          "Matter Waves",
+          "Uncertainty Principle",
+          "Schrodinger equation"
+        ]
+      },
+      {
+        "module_label": "Module 2",
+        "raw": "Applications of Quantum Physics",
+        "topics": [
+          "Particle in a box",
+          "Tunneling Effect",
+          "STM"
+        ]
+      },
+      {
+        "module_label": "Module 3",
+        "raw": "Nanophysics",
+        "topics": [
+          "Nanomaterials",
+          "Quantum confinement",
+          "Carbon Nanotubes",
+          "Applications of Nanotechnology"
+        ]
+      },
+      {
+        "module_label": "Module 4",
+        "raw": "Laser Principles and Applications",
+        "topics": [
+          "Laser characteristics",
+          "Population inversion",
+          "Laser types",
+          "Applications"
+        ]
+      },
+      {
+        "module_label": "Module 5",
+        "raw": "Electromagnetic Theory",
+        "topics": [
+          "Divergence",
+          "Gradient",
+          "Curl",
+          "Maxwell equations",
+          "Wave equation",
+          "EM waves"
+        ]
+      },
+      {
+        "module_label": "Module 6",
+        "raw": "Optical Fibers and Optoelectronics",
+        "topics": [
+          "Light propagation",
+          "Fiber types",
+          "Attenuation",
+          "Dispersion",
+          "LED",
+          "Laser diode",
+          "Photodetectors",
+          "Fiber applications"
+        ]
+      },
+      {
+        "module_label": "Module 7",
+        "raw": "Special Theory of Relativity",
+        "topics": [
+          "Frame of reference",
+          "Galilean relativity",
+          "Simultaneity",
+          "Length contraction",
+          "Time dilation"
+        ]
+      },
+      {
+        "module_label": "Module 8",
+        "raw": "Contemporary Issues",
+        "topics": [
+          "Lecture by Industry Experts"
+        ]
+      }
+    ]
+  }
+}

@@ -98,15 +98,23 @@ const moveDirectories = async (userInput) => {
   }
 };
 
-rl.question(
-  "Do you want to move existing files to /app-example instead of deleting them? (Y/n): ",
-  (answer) => {
-    const userInput = answer.trim().toLowerCase() || "y";
-    if (userInput === "y" || userInput === "n") {
-      moveDirectories(userInput).finally(() => rl.close());
-    } else {
-      console.log("❌ Invalid input. Please enter 'Y' or 'N'.");
-      rl.close();
+const runInNonInteractiveMode = process.argv.includes('--confirm');
+
+if (runInNonInteractiveMode) {
+  moveDirectories('y').finally(() => rl.close());
+} else {
+  rl.question(
+    "Do you want to move existing files to /app-example instead of deleting them? (Y/n): ",
+    (answer) => {
+      const userInput = answer.trim().toLowerCase() || "y";
+      if (userInput === "y" || userInput === "n") {
+        moveDirectories(userInput).finally(() => rl.close());
+      } else {
+        console.log("❌ Invalid input. Please enter 'Y' or 'N'.");
+        rl.close();
+      }
     }
-  }
-);
+  );
+}
+
+console.log("\n[WARNING] This script DELETES/MOVES all app code. Pass --confirm if you are sure!");

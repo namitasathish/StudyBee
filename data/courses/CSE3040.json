@@ -1,0 +1,18 @@
+{
+  "CSE3040": {
+    "meta": {
+      "course_code": "CSE3040",
+      "title": "Big Data Analytics",
+      "header": "CSE3040 Big Data Analytics L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction to Big Data", "topics": ["Characteristics of Big Data", "Big Data challenges", "Big Data architecture"] },
+      { "module_label": "Module 2", "raw": "Hadoop Framework", "topics": ["HDFS", "MapReduce", "YARN"] },
+      { "module_label": "Module 3", "raw": "NoSQL Databases", "topics": ["Key-value stores", "Column-oriented stores", "Document stores", "Graph databases"] },
+      { "module_label": "Module 4", "raw": "Data Processing Frameworks", "topics": ["Hive", "Pig", "Spark"] },
+      { "module_label": "Module 5", "raw": "Data Stream Processing", "topics": ["Real-time analytics", "Storm", "Kafka"] },
+      { "module_label": "Module 6", "raw": "Big Data Analytics", "topics": ["Clustering", "Classification", "Recommendation systems"] },
+      { "module_label": "Module 7", "raw": "Applications of Big Data", "topics": ["Healthcare", "Finance", "E-commerce", "Social media"] }
+    ]
+  }
+}

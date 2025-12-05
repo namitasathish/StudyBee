@@ -1,0 +1,18 @@
+{
+  "CSE4022": {
+    "meta": {
+      "course_code": "CSE4022",
+      "title": "Reinforcement Learning",
+      "header": "CSE4022 Reinforcement Learning L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction to Reinforcement Learning", "topics": ["RL vs supervised/unsupervised learning", "Applications of RL"] },
+      { "module_label": "Module 2", "raw": "Markov Decision Processes", "topics": ["States", "Actions", "Rewards", "Policies", "Value functions"] },
+      { "module_label": "Module 3", "raw": "Dynamic Programming Methods", "topics": ["Policy iteration", "Value iteration"] },
+      { "module_label": "Module 4", "raw": "Monte Carlo Methods", "topics": ["MC prediction", "MC control", "Exploring starts"] },
+      { "module_label": "Module 5", "raw": "Temporal-Difference Learning", "topics": ["SARSA", "Q-learning", "n-step methods"] },
+      { "module_label": "Module 6", "raw": "Function Approximation", "topics": ["Linear function approximation", "Deep Q-Networks"] },
+      { "module_label": "Module 7", "raw": "Advanced Topics", "topics": ["Policy gradients", "Actor-critic methods", "Applications of RL"] }
+    ]
+  }
+}

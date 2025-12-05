@@ -1,0 +1,185 @@
+{
+  "CSE1013": {
+    "meta": {
+      "course_code": "CSE1013",
+      "title": "Problem Solving and Programming in C",
+      "header": "CSE1013 Problem Solving and Programming in C L T P J C"
+    },
+    "modules": [
+      {
+        "module_label": "Module 1",
+        "raw": "Introduction to programming paradigms, Programming environment, Demonstration of Assemblers, Compilers, Interpreters, Linker, Loaders",
+        "topics": [
+          "Programming paradigms",
+          "Assemblers",
+          "Compilers",
+          "Interpreters",
+          "Linker",
+          "Loaders"
+        ]
+      },
+      {
+        "module_label": "Module 2",
+        "raw": "Algorithm writing, Structure of C program, Data Types, Storage classes",
+        "topics": [
+          "Algorithms",
+          "C program structure",
+          "Data types",
+          "Storage classes"
+        ]
+      },
+      {
+        "module_label": "Module 3",
+        "raw": "Constants, Enumeration, Keywords, Operators, Expressions, I/O statements, Pre-processor directives, Compilation process",
+        "topics": [
+          "Constants",
+          "Enumeration",
+          "Keywords",
+          "Operators",
+          "Expressions",
+          "I/O statements",
+          "Pre-processor directives",
+          "Compilation process"
+        ]
+      },
+      {
+        "module_label": "Module 4",
+        "raw": "Decision making statements, Switch, Looping statements",
+        "topics": [
+          "Decision making",
+          "Switch",
+          "Loops"
+        ]
+      },
+      {
+        "module_label": "Module 5",
+        "raw": "Arrays (1D, 2D), Strings and string operations",
+        "topics": [
+          "1D arrays",
+          "2D arrays",
+          "Strings"
+        ]
+      },
+      {
+        "module_label": "Module 6",
+        "raw": "Pointers & address, Pointers & arrays, Address arithmetic, Character pointers",
+        "topics": [
+          "Pointers",
+          "Address arithmetic",
+          "Character pointers"
+        ]
+      },
+      {
+        "module_label": "Module 7",
+        "raw": "Array of pointers, Initialization, Pointers to pointers",
+        "topics": [
+          "Array of pointers",
+          "Pointer initialization",
+          "Pointers to pointers"
+        ]
+      },
+      {
+        "module_label": "Module 8",
+        "raw": "Multidimensional arrays, Dynamic memory allocation, Command-line arguments",
+        "topics": [
+          "Multidimensional arrays",
+          "Dynamic memory allocation",
+          "Command-line arguments"
+        ]
+      },
+      {
+        "module_label": "Module 9",
+        "raw": "Built-in functions (string, math)",
+        "topics": [
+          "String functions",
+          "Math functions"
+        ]
+      },
+      {
+        "module_label": "Module 10",
+        "raw": "User defined functions: Prototype, Definition, Call",
+        "topics": [
+          "Function prototype",
+          "Function definition",
+          "Function call"
+        ]
+      },
+      {
+        "module_label": "Module 11",
+        "raw": "Parameter passing, Recursion",
+        "topics": [
+          "Pass by value",
+          "Pass by reference",
+          "Recursion"
+        ]
+      },
+      {
+        "module_label": "Module 12",
+        "raw": "Structures and arrays of structures",
+        "topics": [
+          "Structures",
+          "Arrays of structures"
+        ]
+      },
+      {
+        "module_label": "Module 13",
+        "raw": "Nested structures, Passing structure to function",
+        "topics": [
+          "Nested structures",
+          "Passing structures"
+        ]
+      },
+      {
+        "module_label": "Module 14",
+        "raw": "Typedef, Unions, Bit-fields, Type casting, Macros",
+        "topics": [
+          "Typedef",
+          "Unions",
+          "Bit-fields",
+          "Type casting",
+          "Macros"
+        ]
+      },
+      {
+        "module_label": "Module 15",
+        "raw": "Pointers to structures, Self-referential structures",
+        "topics": [
+          "Pointers to structures",
+          "Self-referential structures"
+        ]
+      },
+      {
+        "module_label": "Module 16",
+        "raw": "Pointers & functions, Pass by reference",
+        "topics": [
+          "Pointers and functions",
+          "Pass by reference"
+        ]
+      },
+      {
+        "module_label": "Module 17",
+        "raw": "Pointers to functions, Error handling",
+        "topics": [
+          "Pointers to functions",
+          "Error handling"
+        ]
+      },
+      {
+        "module_label": "Module 18",
+        "raw": "File I/O: open, close, read, write",
+        "topics": [
+          "File open/close",
+          "File read/write"
+        ]
+      },
+      {
+        "module_label": "Module 19",
+        "raw": "File Access: sequential and random access",
+        "topics": [
+          "Sequential access",
+          "Random access"
+        ]
+      }
+    ]
+  }
+}

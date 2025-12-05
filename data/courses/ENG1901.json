@@ -1,0 +1,25 @@
+{
+  "ENG1901": {
+    "meta": {
+      "course_code": "ENG1901",
+      "title": "Technical English - I",
+      "header": "ENG1901 Technical English - I L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Advanced Grammar", "topics": ["Articles", "Tenses", "Voice", "Prepositions"] },
+      { "module_label": "Module 2", "raw": "Vocabulary Building I", "topics": ["Idioms and Phrases", "Homonyms", "Homophones", "Homographs"] },
+      { "module_label": "Module 3", "raw": "Listening for Specific Purposes", "topics": ["Listening to gist", "Monologues", "Conversations", "Announcements", "Briefings", "Discussions"] },
+      { "module_label": "Module 4", "raw": "Speaking for Expression", "topics": ["Self-introduction", "Requests", "Invitations"] },
+      { "module_label": "Module 5", "raw": "Reading for Information", "topics": ["News articles", "Technical papers", "Short stories"] },
+      { "module_label": "Module 6", "raw": "Writing Strategies", "topics": ["Sentence joining", "Sequencing ideas", "Paragraph writing"] },
+      { "module_label": "Module 7", "raw": "Vocabulary Building II", "topics": ["Domain specific vocabulary", "Objects", "Charts", "Sports", "Employment"] },
+      { "module_label": "Module 8", "raw": "Listening for Daily Life", "topics": ["Statistical information", "Radio broadcasts", "TV interviews"] },
+      { "module_label": "Module 9", "raw": "Expressing Ideas and Opinions", "topics": ["Telephonic conversations", "Describing products", "Describing processes"] },
+      { "module_label": "Module 10", "raw": "Comprehensive Reading", "topics": ["Reading comprehension", "Making inferences", "Critical reading"] },
+      { "module_label": "Module 11", "raw": "Narration", "topics": ["Narrative writing", "Personal milestones", "Official letters", "E-mails"] },
+      { "module_label": "Module 12", "raw": "Pronunciation", "topics": ["Speech sounds", "Word stress", "Intonation", "Accents"] },
+      { "module_label": "Module 13", "raw": "Editing", "topics": ["Sentence correction", "Direct and indirect speech", "Punctuation"] },
+      { "module_label": "Module 14", "raw": "Short Story Analysis", "topics": ["Literary analysis of short stories"] }
+    ]
+  }
+}

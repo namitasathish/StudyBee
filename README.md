@@ -35,6 +35,27 @@ npm run reset-project
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
+## Backend API Setup
+
+To enable quiz generation (AI):
+
+1. Install and run [Ollama](https://ollama.com/) locally. Make sure it is running at http://localhost:11434
+2. Start the API server:
+
+```bash
+node server.js
+```
+
+This Express backend exposes `/api/generate-quiz` for the app.
+
+- If running the app on a mobile device, you must replace `localhost` with your computer's LAN IP in the app (see configuration).
+
+## API Configuration for Devices
+
+- For testing on physical devices, use your computer's IP (e.g. `http://192.168.1.10:3001`).
+- Recommended: Create a `constants/config.ts` in your project with the API origin set based on `Platform.OS` and dev/prod settings.
+- Do not commit any `.env` or config files containing secrets or private local IPs.
+
 ## Learn more
 
 To learn more about developing your project with Expo, look at the following resources:

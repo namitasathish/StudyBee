@@ -1,0 +1,16 @@
+{
+  "CSE2005": {
+    "meta": {
+      "course_code": "CSE2005",
+      "title": "Data Structures and Algorithms",
+      "header": "CSE2005 Data Structures and Algorithms L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction to Data Structures", "topics": ["Abstract Data Types", "Complexity Analysis", "Arrays", "Linked Lists"] },
+      { "module_label": "Module 2", "raw": "Stacks and Queues", "topics": ["Stack operations", "Applications of stacks", "Queue operations", "Circular queues", "Priority queues"] },
+      { "module_label": "Module 3", "raw": "Trees", "topics": ["Binary Trees", "Tree traversals", "Binary Search Trees", "AVL Trees", "B-trees"] },
+      { "module_label": "Module 4", "raw": "Graphs", "topics": ["Graph representations", "DFS", "BFS", "Minimum Spanning Trees", "Shortest Path Algorithms"] },
+      { "module_label": "Module 5", "raw": "Sorting and Searching", "topics": ["Merge Sort", "Quick Sort", "Heap Sort", "Hashing"] }
+    ]
+  }
+}

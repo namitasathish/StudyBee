@@ -1,0 +1,101 @@
+{
+  "MAT1021": {
+    "meta": {
+      "course_code": "MAT1021",
+      "title": "Probability and Statistics for Engineers",
+      "header": "MAT1021 Probability and Statistics for Engineers L T P J C"
+    },
+    "modules": [
+      {
+        "module_label": "Module 1",
+        "raw": "Introduction to Statistics & Data Analysis",
+        "topics": [
+          "Data types",
+          "Descriptive statistics",
+          "Histograms",
+          "Boxplot",
+          "Skewness",
+          "Kurtosis"
+        ]
+      },
+      {
+        "module_label": "Module 2",
+        "raw": "Probability",
+        "topics": [
+          "Conditional Probability",
+          "Bayes Theorem",
+          "Random variables",
+          "Probability distributions",
+          "Expectation",
+          "Covariance"
+        ]
+      },
+      {
+        "module_label": "Module 3",
+        "raw": "Correlation and Regression",
+        "topics": [
+          "Scatter Plot",
+          "Correlation types",
+          "Pearson\u2019s coefficient",
+          "Spearman\u2019s rank correlation",
+          "Regression lines",
+          "Multiple regression"
+        ]
+      },
+      {
+        "module_label": "Module 4",
+        "raw": "Discrete Probability Distributions",
+        "topics": [
+          "Binomial distribution",
+          "Poisson distribution",
+          "Hypergeometric distribution",
+          "Multinomial distribution",
+          "Bivariate distributions"
+        ]
+      },
+      {
+        "module_label": "Module 5",
+        "raw": "Continuous Probability Distributions",
+        "topics": [
+          "Uniform distribution",
+          "Normal distribution",
+          "Exponential distribution",
+          "Weibull distribution",
+          "Beta distribution",
+          "Gamma distribution"
+        ]
+      },
+      {
+        "module_label": "Module 6",
+        "raw": "Hypothesis Testing I",
+        "topics": [
+          "Sampling methods",
+          "Z test",
+          "t test",
+          "Proportion test",
+          "Type-II errors",
+          "Sample size determination"
+        ]
+      },
+      {
+        "module_label": "Module 7",
+        "raw": "Hypothesis Testing II",
+        "topics": [
+          "t test",
+          "F test",
+          "Goodness of Fit",
+          "Chi-square test",
+          "ANOVA"
+        ]
+      },
+      {
+        "module_label": "Module 8",
+        "raw": "Contemporary Issues",
+        "topics": [
+          "Applications of Statistics in Computer Science and Engineering",
+          "Applications in Finance"
+        ]
+      }
+    ]
+  }
+}

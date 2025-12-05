@@ -1,0 +1,190 @@
+{
+  "CSE1018": {
+    "meta": {
+      "course_code": "CSE1018",
+      "title": "Problem Solving and Object Oriented Programming in Java",
+      "header": "CSE1018 Problem Solving and Object Oriented Programming in Java L T P J C"
+    },
+    "modules": [
+      {
+        "module_label": "Module 1",
+        "raw": "Introduction to Java programming, C++ vs Java, JVM, Bytecode",
+        "topics": [
+          "Java introduction",
+          "C++ vs Java",
+          "JVM",
+          "Bytecode"
+        ]
+      },
+      {
+        "module_label": "Module 2",
+        "raw": "Elements of Java Program (Syntax, Semantics, Naming Conventions)",
+        "topics": [
+          "Java syntax",
+          "Semantics",
+          "Naming Conventions"
+        ]
+      },
+      {
+        "module_label": "Module 3",
+        "raw": "Introduction to Object Oriented Programming",
+        "topics": [
+          "OOP basics"
+        ]
+      },
+      {
+        "module_label": "Module 4",
+        "raw": "Java Classes and Objects",
+        "topics": [
+          "Classes",
+          "Objects"
+        ]
+      },
+      {
+        "module_label": "Module 5",
+        "raw": "Keywords, Operators, Expressions, Data types, Unicode System",
+        "topics": [
+          "Keywords",
+          "Operators",
+          "Expressions",
+          "Data types",
+          "Unicode System"
+        ]
+      },
+      {
+        "module_label": "Module 6",
+        "raw": "Control Structures: Conditional, Looping, Enhanced for loop",
+        "topics": [
+          "Conditional statements",
+          "Loops",
+          "Enhanced for loop"
+        ]
+      },
+      {
+        "module_label": "Module 7",
+        "raw": "Java I/O Methods, Garbage Collection",
+        "topics": [
+          "Java I/O",
+          "Garbage Collection"
+        ]
+      },
+      {
+        "module_label": "Module 8",
+        "raw": "Methods: Constructors, Static, Libraries, Recursion",
+        "topics": [
+          "Constructors",
+          "Static methods",
+          "Libraries",
+          "Recursion"
+        ]
+      },
+      {
+        "module_label": "Module 9",
+        "raw": "Abstraction and Encapsulation",
+        "topics": [
+          "Abstraction",
+          "Encapsulation"
+        ]
+      },
+      {
+        "module_label": "Module 10",
+        "raw": "Inheritance (IS-A, HAS-A) and its types",
+        "topics": [
+          "Inheritance",
+          "IS-A relationship",
+          "HAS-A relationship"
+        ]
+      },
+      {
+        "module_label": "Module 11",
+        "raw": "Abstract Classes and Interfaces",
+        "topics": [
+          "Abstract Classes",
+          "Interfaces"
+        ]
+      },
+      {
+        "module_label": "Module 12",
+        "raw": "Polymorphism: Overloading, Overriding, Final and Super",
+        "topics": [
+          "Method Overloading",
+          "Method Overriding",
+          "Final keyword",
+          "Super keyword"
+        ]
+      },
+      {
+        "module_label": "Module 13",
+        "raw": "Arrays (1D and Multi-Dimensional)",
+        "topics": [
+          "1D arrays",
+          "Multi-dimensional arrays"
+        ]
+      },
+      {
+        "module_label": "Module 14",
+        "raw": "Strings, StringBuffer, StringBuilder",
+        "topics": [
+          "Strings",
+          "StringBuffer",
+          "StringBuilder"
+        ]
+      },
+      {
+        "module_label": "Module 15",
+        "raw": "Wrapper classes, Type Conversion, Casting",
+        "topics": [
+          "Wrapper classes",
+          "Type Conversion",
+          "Casting"
+        ]
+      },
+      {
+        "module_label": "Module 16",
+        "raw": "Exception handling: Checked, Unchecked",
+        "topics": [
+          "Checked exceptions",
+          "Unchecked exceptions"
+        ]
+      },
+      {
+        "module_label": "Module 17",
+        "raw": "Threads: Single, Multi-threaded",
+        "topics": [
+          "Single-threaded",
+          "Multi-threaded"
+        ]
+      },
+      {
+        "module_label": "Module 18",
+        "raw": "Packages: System Defined, User Defined",
+        "topics": [
+          "System packages",
+          "User packages"
+        ]
+      },
+      {
+        "module_label": "Module 19",
+        "raw": "Files: Sequential, Random",
+        "topics": [
+          "Sequential files",
+          "Random files"
+        ]
+      },
+      {
+        "module_label": "Module 20",
+        "raw": "Collections framework",
+        "topics": [
+          "Collections"
+        ]
+      },
+      {
+        "module_label": "Module 21",
+        "raw": "JDBC (Java Database Connectivity)",
+        "topics": [
+          "JDBC"
+        ]
+      }
+    ]
+  }
+}

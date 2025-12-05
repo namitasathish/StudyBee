@@ -1,0 +1,19 @@
+{
+  "HUM1021": {
+    "meta": {
+      "course_code": "HUM1021",
+      "title": "Ethics and Values",
+      "header": "HUM1021 Ethics and Values L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Human Values", "topics": ["Value education", "Purpose of education", "Harmony in life"] },
+      { "module_label": "Module 2", "raw": "Being Good and Responsible", "topics": ["Social responsibility", "Ethical behavior"] },
+      { "module_label": "Module 3", "raw": "Principles of Ethics", "topics": ["Ethical theories", "Virtue ethics", "Consequentialism", "Deontology"] },
+      { "module_label": "Module 4", "raw": "Ethics and the Self", "topics": ["Self-reflection", "Integrity", "Character"] },
+      { "module_label": "Module 5", "raw": "Ethics in Society", "topics": ["Social justice", "Diversity", "Equality"] },
+      { "module_label": "Module 6", "raw": "Professional Ethics", "topics": ["Workplace ethics", "Corporate responsibility"] },
+      { "module_label": "Module 7", "raw": "Ethics and Global Issues", "topics": ["Environment", "Sustainability", "Globalization"] },
+      { "module_label": "Module 8", "raw": "Contemporary Issues", "topics": ["Current ethical challenges"] }
+    ]
+  }
+}

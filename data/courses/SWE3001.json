@@ -1,0 +1,16 @@
+{
+  "SWE3001": {
+    "meta": {
+      "course_code": "SWE3001",
+      "title": "Operating Systems",
+      "header": "SWE3001 Operating Systems L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction to Operating Systems", "topics": ["Objectives of OS", "Functions of OS", "Evolution of OS", "System Calls"] },
+      { "module_label": "Module 2", "raw": "Process Management", "topics": ["Processes", "Threads", "Process Scheduling", "CPU Scheduling algorithms"] },
+      { "module_label": "Module 3", "raw": "Process Synchronization", "topics": ["Critical Section problem", "Semaphores", "Monitors", "Deadlocks"] },
+      { "module_label": "Module 4", "raw": "Memory Management", "topics": ["Contiguous Allocation", "Paging", "Segmentation", "Virtual Memory", "Page Replacement"] },
+      { "module_label": "Module 5", "raw": "Storage and File Systems", "topics": ["Disk Scheduling", "File Concepts", "Directory structure", "File allocation methods"] }
+    ]
+  }
+}

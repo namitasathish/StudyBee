@@ -1,0 +1,18 @@
+{
+  "CSE4024": {
+    "meta": {
+      "course_code": "CSE4024",
+      "title": "Information Retrieval",
+      "header": "CSE4024 Information Retrieval L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction to Information Retrieval", "topics": ["IR models", "Applications of IR", "Evaluation of IR systems"] },
+      { "module_label": "Module 2", "raw": "Indexing", "topics": ["Inverted index", "Signature files", "Suffix trees"] },
+      { "module_label": "Module 3", "raw": "Retrieval Models", "topics": ["Boolean retrieval", "Vector space model", "Probabilistic models"] },
+      { "module_label": "Module 4", "raw": "Web Search", "topics": ["Web crawling", "Link analysis", "PageRank", "HITS algorithm"] },
+      { "module_label": "Module 5", "raw": "Text Classification", "topics": ["Naive Bayes", "k-NN classification", "SVMs for text"] },
+      { "module_label": "Module 6", "raw": "Clustering in IR", "topics": ["Document clustering", "Topic models", "Latent semantic analysis"] },
+      { "module_label": "Module 7", "raw": "Advanced Topics", "topics": ["Cross-lingual IR", "Multimedia IR", "Personalized search"] }
+    ]
+  }
+}

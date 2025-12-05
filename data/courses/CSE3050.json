@@ -1,0 +1,19 @@
+{
+  "CSE3050": {
+    "meta": {
+      "course_code": "CSE3050",
+      "title": "Deep Learning",
+      "header": "CSE3050 Deep Learning L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction to Deep Learning", "topics": ["History of deep learning", "Machine learning vs deep learning", "Applications"] },
+      { "module_label": "Module 2", "raw": "Neural Network Basics", "topics": ["Perceptron", "Activation functions", "Loss functions", "Gradient descent"] },
+      { "module_label": "Module 3", "raw": "Feedforward Neural Networks", "topics": ["Multilayer perceptron", "Backpropagation algorithm"] },
+      { "module_label": "Module 4", "raw": "Convolutional Neural Networks", "topics": ["Convolution operation", "Pooling", "CNN architectures"] },
+      { "module_label": "Module 5", "raw": "Recurrent Neural Networks", "topics": ["RNN basics", "LSTM", "GRU", "Sequence modeling"] },
+      { "module_label": "Module 6", "raw": "Optimization Techniques", "topics": ["SGD", "Adam", "Regularization", "Dropout", "Batch normalization"] },
+      { "module_label": "Module 7", "raw": "Generative Models", "topics": ["Autoencoders", "Variational autoencoders", "GANs"] },
+      { "module_label": "Module 8", "raw": "Contemporary Issues", "topics": ["Ethics in deep learning", "Explainable AI", "Future directions"] }
+    ]
+  }
+}

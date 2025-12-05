@@ -1,0 +1,17 @@
+{
+  "CSE3037": {
+    "meta": {
+      "course_code": "CSE3037",
+      "title": "Design and Analysis of Algorithms",
+      "header": "CSE3037 Design and Analysis of Algorithms L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction and Complexity Analysis", "topics": ["Algorithm design", "Growth of functions", "Asymptotic notations"] },
+      { "module_label": "Module 2", "raw": "Divide and Conquer", "topics": ["Merge Sort", "Quick Sort", "Binary Search", "Matrix Multiplication"] },
+      { "module_label": "Module 3", "raw": "Greedy Method", "topics": ["Knapsack problem", "Minimum Spanning Trees", "Job sequencing"] },
+      { "module_label": "Module 4", "raw": "Dynamic Programming", "topics": ["Floyd-Warshall", "Bellman-Ford", "Matrix chain multiplication", "Knapsack"] },
+      { "module_label": "Module 5", "raw": "Backtracking and Branch & Bound", "topics": ["N-Queens", "Graph coloring", "Travelling Salesman Problem"] },
+      { "module_label": "Module 6", "raw": "NP-Completeness", "topics": ["P and NP classes", "NP-Completeness", "Approximation algorithms"] }
+    ]
+  }
+}

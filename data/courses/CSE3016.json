@@ -1,0 +1,19 @@
+{
+  "CSE3016": {
+    "meta": {
+      "course_code": "CSE3016",
+      "title": "Machine Learning",
+      "header": "CSE3016 Machine Learning L T P J C"
+    },
+    "modules": [
+      { "module_label": "Module 1", "raw": "Introduction to Machine Learning", "topics": ["Learning paradigms", "Supervised learning", "Unsupervised learning", "Reinforcement learning"] },
+      { "module_label": "Module 2", "raw": "Regression Models", "topics": ["Linear regression", "Multiple regression", "Logistic regression"] },
+      { "module_label": "Module 3", "raw": "Classification Models", "topics": ["Decision trees", "Naive Bayes", "k-NN classifier", "Support Vector Machines"] },
+      { "module_label": "Module 4", "raw": "Clustering", "topics": ["K-means", "Hierarchical clustering", "DBSCAN"] },
+      { "module_label": "Module 5", "raw": "Neural Networks", "topics": ["Perceptron", "Multilayer perceptron", "Backpropagation"] },
+      { "module_label": "Module 6", "raw": "Ensemble Learning", "topics": ["Bagging", "Boosting", "Random Forests"] },
+      { "module_label": "Module 7", "raw": "Dimensionality Reduction", "topics": ["PCA", "LDA", "Feature selection"] },
+      { "module_label": "Module 8", "raw": "Contemporary Issues", "topics": ["Applications of ML", "Current challenges"] }
+    ]
+  }
+}

@@ -45,10 +45,10 @@ Students can request a structured study plan for any course. The plan is:Generat
 
 
 # Getting Started
-- 1.	Clone the repository.
-- 2.	Install frontend and backend dependencies.
-- 3.	Configure .env
-- 4.	start ollama
-- 5.	Start the backend server
-- 6.	Start the frontend using Expo
+ 1.	Clone the repository.
+ 2.	Install frontend and backend dependencies.
+ 3.	Configure .env
+ 4.	start ollama
+ 5.	Start the backend server
+ 6.	Start the frontend using Expo
 

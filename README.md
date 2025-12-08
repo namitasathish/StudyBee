@@ -17,7 +17,7 @@ StudyBee centralizes course management, study planning, quizzes, and focus tools
 
 # **User Flow**
 1️⃣ Browse Courses & Pick What to Study
-Students land on the Courses screen, where each course displays:Credit value, Modules, Quick Start Learning entry point
+Students land on the Courses screen, where each course displays: Credit value, Modules, Quick Start Learning entry point
 From here, they tap into a specific course to view detailed tools and resources.
 
 2️⃣ Explore Course Modules & Resources
@@ -50,5 +50,5 @@ Students can request a structured study plan for any course. The plan is:Generat
  3.	Configure .env
  4.	start ollama
  5.	Start the backend server
- 6.	Start the frontend using Expo
+ 6.	Start the frontend 
 

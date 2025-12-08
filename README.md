@@ -1,71 +1,54 @@
-# Welcome to your Expo app 👋
+**StudyBee – AI-Powered Study Companion**
+StudyBee is an intelligent study companion that helps students organize courses, plan preparation, and practice efficiently using AI-powered assistance. It transforms raw syllabi into structured study plans, generates personalized quizzes, and tracks learning progress, so students can focus on actual learning
+StudyBee centralizes course management, study planning, quizzes, and focus tools into one clean interface. It is designed especially for university students juggling multiple technical courses 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Core Functionalities 
+- 📄 Smart Syllabus Processing
+- 🗓️ Personalized Study Planning
+- 📊 Analytics & Progress Insights
+- 🧠 AI-Powered Quiz Engine
+- 🛠️ Integrated Study Toolkit
+- 🔔 Smart Notifications
 
-## Get started
+# Tech Stack
+- Frontend:  React Native 
+- Backend: Node.js with Express, Ollama, PDF.js, mammoth.js
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+# **User Flow**
+## 1️⃣ Browse Courses & Pick What to Study
+Students land on the Courses screen, where each course displays:Credit value, Modules, Quick Start Learning entry point
+From here, they tap into a specific course to view detailed tools and resources.
 
-2. Start the app
+## 2️⃣ Explore Course Modules & Resources
+Inside a course, StudyBee organizes the syllabus into modules and topics, such as:
+Each module contains:Topic chips, Textbook recommendations, Video resources, Generate Quiz button
 
-   ```bash
-   npx expo start
-   ```
+## 3️⃣ Generate & Take AI-Powered Quizzes
+- Students can generate quizzes from: Global Quiz screen, Any course module
+- They can: Select a topic, Choose difficulty (Easy / Medium / Hard), Set the number of questions
+- The quiz experience includes:Timed MCQs, Score breakdown, Question-wise answer review
 
-In the output, you'll find options to open the app in a
+## 4️⃣ Ask Questions with the Built-In AI Assistant
+Each course includes an AI Assistant tab where students can ask conceptual doubts like:
+“What are pointers?”
+The assistant delivers structured, step-by-step explanations tailored to the course context.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 5️⃣ Plan Focus Sessions with Pomodoro
+The Pomodoro tab offers a distraction-free focus timer with: Default 25-minute focus session, Start / Reset controls, Completed cycle tracking
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 6️⃣ Track Understanding Across Modules
+Students can rate their understanding of each module on a 1–5 scale. This helps to: Reflect confidence levels, Identify weak areas, Prioritize revision in the study plan
 
-## Get a fresh project
+## 7️⃣ Email-Ready Study Plans
+Students can request a structured study plan for any course. The plan is:Generated automatically, Sent to the registered email, Confirmed via in-app popup
 
-When you're ready, run:
 
-```bash
-npm run reset-project
-```
+# Getting Started
+- 1.	Clone the repository.
+- 2.	Install frontend and backend dependencies.
+- 3.	Configure .env
+- 4.	start ollama
+- 5.	Start the backend server
+- 6.	Start the frontend using Expo
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Backend API Setup
-
-To enable quiz generation (AI):
-
-1. Install and run [Ollama](https://ollama.com/) locally. Make sure it is running at http://localhost:11434
-2. Start the API server:
-
-```bash
-node server.js
-```
-
-This Express backend exposes `/api/generate-quiz` for the app.
-
-- If running the app on a mobile device, you must replace `localhost` with your computer's LAN IP in the app (see configuration).
-
-## API Configuration for Devices
-
-- For testing on physical devices, use your computer's IP (e.g. `http://192.168.1.10:3001`).
-- Recommended: Create a `constants/config.ts` in your project with the API origin set based on `Platform.OS` and dev/prod settings.
-- Do not commit any `.env` or config files containing secrets or private local IPs.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.

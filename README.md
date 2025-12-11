@@ -44,8 +44,8 @@ Students can rate their understanding of each module on a 1–5 scale. This help
 Students can request a structured study plan for any course. The plan is:Generated automatically, Sent to the registered email, Confirmed via in-app popup
 
 # Peek into the project
-<img src="images/img1.png" width="400">
-<img src="images/img2.png" width="400">
+<img src="images/img1.jpg" width="400">
+<img src="images/img2.jpg" width="400">
 
 
 # Getting Started

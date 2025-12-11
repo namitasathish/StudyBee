@@ -46,21 +46,22 @@ Students can request a structured study plan for any course. The plan is:Generat
 # Peek into the project
 <table>
   <tr>
-    <td><img src="images/img1.jpg" width="250" height="150"></td>
-    <td><img src="images/img2.jpg" width="250" height="150"></td>
-    <td><img src="images/img3.jpg" width="250" height="150"></td>
+    <td><img src="images/img1.jpg" width="250"></td>
+    <td><img src="images/img2.jpg" width="250"></td>
+    <td><img src="images/img3.jpg" width="250"></td>
   </tr>
   <tr>
-    <td><img src="images/img4.jpg" width="250" height="150"></td>
-    <td><img src="images/img5.jpg" width="250" height="150"></td>
-    <td><img src="images/img6.jpg" width="250" height="150"></td>
+    <td><img src="images/img4.jpg" width="250"></td>
+    <td><img src="images/img7.jpg" width="250"></td>
+    <td><img src="images/img6.jpg" width="250"></td>
   </tr>
   <tr>
-    <td><img src="images/img7.jpg" width="250" height="150"></td>
-    <td><img src="images/img8.jpg" width="250" height="150"></td>
-    <td><img src="images/img9.jpg" width="250" height="150"></td>
+    <td><img src="images/img5.jpg" width="250"></td>
+    <td><img src="images/img8.jpg" width="250"></td>
+    <td><img src="images/img9.jpg" width="250"></td>
   </tr>
 </table>
+
 
 
 

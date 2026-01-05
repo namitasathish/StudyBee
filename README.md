@@ -1,4 +1,4 @@
-# **StudyBee – AI-Powered Study Companion**
+# **StudyBee: AI-Powered Study Companion**
 StudyBee is an intelligent study companion that helps students organize courses, plan preparation, and practice efficiently using AI-powered assistance. It transforms raw syllabi into structured study plans, generates personalized quizzes, and tracks learning progress, so students can focus on actual learning
 StudyBee centralizes course management, study planning, quizzes, and focus tools into one clean interface. It is designed especially for university students juggling multiple technical courses 
 
